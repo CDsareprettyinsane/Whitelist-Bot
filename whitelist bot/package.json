@@ -1,0 +1,18 @@
+{
+  "name": "whitelist bot",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.20.0",
+    "node-fetch": "^3.3.2",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "@types/node": "^20.11.0"
+  }
+}
