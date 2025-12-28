@@ -10,7 +10,7 @@ A backend running the webhook (included)
 
 #Clone the repository
 
-> git clone https://github.com/CDsareprettyinsane/discord-whitelist-bot.git
+> git clone https://github.com/CDsareprettyinsane/Whitelist-Bot.git
 > cd discord-whitelist-bot
 
 # Configure the bot
