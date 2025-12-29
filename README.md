@@ -8,7 +8,7 @@ A Discord server with a role named Developers
 
 A backend running the webhook (included)
 
-#Downloaded needed dependencies
+# Downloaded needed dependencies
 
 > npm install express
 > npm install discord.js
