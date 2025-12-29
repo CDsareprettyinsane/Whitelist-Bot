@@ -8,10 +8,15 @@ A Discord server with a role named Developers
 
 A backend running the webhook (included)
 
+#Downloaded needed dependencies
+
+> npm install express
+> npm install discord.js
+
 #Clone the repository
 
 > git clone https://github.com/CDsareprettyinsane/Whitelist-Bot.git
-> cd discord-whitelist-bot
+> cd Whitelist-Bot
 
 # Configure the bot
 
